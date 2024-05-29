@@ -1,0 +1,8 @@
+[package]
+name = "TMcl"
+version = "0.1.0"
+edition = "2021"
+author = "Nathan Novacek"
+
+[dependencies]
+clap = "4.5.4"
